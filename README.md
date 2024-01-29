@@ -10,8 +10,7 @@ Welcome to NETFLIX , your go-to destination for a world of entertainment! We're 
 1. Introduction 📌
 2. Technology Used🚀
 3. Overview⭐
-4. Contribution Guidelines 📑
-5. Contributing is fun🧡
+
 
 
 ## Introduction 📌
@@ -39,18 +38,3 @@ We leverage the latest in streaming technology to ensure a seamless and enjoyabl
 
 ###### 4. Global Reach: 
 NETFLIX is not just a service; it's a global community. Our platform is accessible to viewers around the world, bringing people together through the magic of storytelling.
-
-## Contribution Guidelines 📑
-
-
-- Firstly add a star(⭐) in this Repository.
-- Fork the Repository and create a new branch for any updates/changes/issue you are working on.
-- Start Coding and do changes.
-- Commit your changes
-- Create a Pull Request which will be reviewed and suggestions would be added to improve it.
-- Add Screenshots and updated website links to help us understand what changes is all about.
-
-## Contributing is fun 🧡
-
-
-Contributions of anykind from anyone are always welcome!
